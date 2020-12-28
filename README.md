@@ -1,4 +1,4 @@
-### I'm web developer using JS!
+### I'm web developer who using JS!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dellil)](https://github.com/ryo-ma/github-profile-trophy)
 
