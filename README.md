@@ -1,20 +1,9 @@
-### I'm web developer who using TS!
+<p>
 
-``` shell
-alias if= 'if !' for='for !' while = 'while !';
-
-alias vim="vim +q";
-alias Vim="emacs"
-
-alias sudo='sudo shutdown -P now';
-alias cd='rm -rf';
-alias ls='rm -rf ./';
-```
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dellil)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Dellil's github stats](https://github-readme-stats.vercel.app/api?username=Dellil&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dellil)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=Dellil&theme=chalk&row=2&column=3&margin-w=20&margin-h=20" align="right" width="45%"/>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Dellil&theme=dracula" width="45%"/>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellil" width="30%" height="30%"/>
+  
+</p>
