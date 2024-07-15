@@ -10,9 +10,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellil" width="30%" height="30%"/>
   
 </p>
-
----
-
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
-</p>
